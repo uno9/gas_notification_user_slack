@@ -16,11 +16,14 @@
 - スプレッドシートで今日の行中から取得したい列番号
 
 ### 📝 実行例：   
-スプレッドシートの状況
+すごく適当に作成したスプレッドシートの例
+
 ![image](https://user-images.githubusercontent.com/47252405/129755554-c0520272-398e-4a27-a936-0c74af6a21d2.png)
 
 実行slack
+
 ![image](https://user-images.githubusercontent.com/47252405/129755376-640e7c5f-8d2b-4be7-8627-743e6d4bf82e.png)
+
 
 ## 🤝 reference
 - [【SlackAPI】GASでpostMessageを叩いて、Slackにメッセージを投稿する方法まとめ](https://tanuhack.com/gas-slackapi-postmessage/)
