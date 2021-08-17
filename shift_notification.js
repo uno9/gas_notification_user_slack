@@ -1,4 +1,4 @@
-var postUrl = 'Slackでinncoming webhookのURLを発行';
+var postUrl = 'Slackでincoming webhookのURLを発行';
 var allUser = [];
 
 // タスクを呼び出し
